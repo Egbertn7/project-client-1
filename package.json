@@ -3,5 +3,12 @@
   "version": "1.0.0",
   "devDependencies": {
     "tailwindcss": "^3.4.1"
-  }
+  },
+  "description": "Hi legendary69420,",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
