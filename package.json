@@ -1,4 +1,6 @@
 {
+  "name": "landing-page-drealms",
+  "version": "1.0.0",
   "devDependencies": {
     "tailwindcss": "^3.4.1"
   }
