@@ -3,11 +3,8 @@
     "public": true,
     "builds": [
       {
-        "src": "src/main.html",
-        "use": "@vercel/static-build",
-        "config": {
-          "distDir": "dist"
-        }
+        "src": "/src/main.html",
+        "use": "@vercel/static"
       }
     ],
     "routes": [
